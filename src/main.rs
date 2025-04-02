@@ -1,4 +1,3 @@
-use core::num;
 use std::env;
 use std::io;
 use std::num::ParseIntError;
